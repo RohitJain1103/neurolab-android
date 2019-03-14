@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity
     private ImageView rocketimage;
     private int lastPos = 0;
     private int newPos = -300;
-    private boolean moving;
+    private boolean moving; // Rohit Jain
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
